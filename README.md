@@ -1,5 +1,6 @@
 # BlackJack
 Console Blackjack game => One of my first Projects
+- To play, download and compile the .cpp file
 
 ![](blackJack.gif)
 
