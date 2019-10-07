@@ -1,7 +1,8 @@
 # BlackJack
-<h4>Console Blackjack game... one of my first projects</h4>
+<h4>BlackJack, for the good 'ole console</h4>
 
 <p align= "center"><img src = "blackJack.gif" /></p>
+<p align = "center">Graphics courtesy the ascii table</p>
 
 <h3>About:</h3>
 <ul>
