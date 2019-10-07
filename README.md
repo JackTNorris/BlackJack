@@ -1,9 +1,17 @@
 # BlackJack
-Console Blackjack game => One of my first Projects
-- To play, download and compile the .cpp file
+<h4>Console Blackjack game... one of my first projects</h4>
 
-![](blackJack.gif)
+<p align= "center"><img src = "blackJack.gif" /></p>
 
-- Made completely with ascii values
-- Complete with a rudimentary betting system
-- Congrats, you start off with $500 in fake money
+<h3>About:</h3>
+<ul>
+<li>Made completely with ascii values</li>
+<li>Complete with a rudimentary betting system</li>
+  <li>One of my first big projects</li>
+</ul>
+<h3>To Run:</h3>
+<ul>
+  <li>Download .cpp file</li>
+  <li>Compile .cpp file</li>
+  <li>Run the generated executable</li>
+  </ul>
